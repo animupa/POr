@@ -2,7 +2,7 @@
 Musical programs of 7 Chilean orchestras, between 2010-2024
 - POr = Programas Orquestas
 
-It consists of 3258 entries (one per pie) and 20 variables:
+It consists of 3258 entries (one per piece) and 20 variables:
 - 1 ID: unique identifier of the piece (produced by Animupa).
 - 2 Orquesta (orchestra): Name of the orchestra performing the piece.
 - 3 Año (year): Year of the concert or performance of the piece.
