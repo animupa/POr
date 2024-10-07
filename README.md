@@ -16,11 +16,11 @@ It consists of 3258 entries (one per piece) and 20 variables:
 - 11 Género compositor/a (composer's gender): Gender of the composer (male, female).
 - 12 Fecha de composición (composition date): Year or date when the piece was originally composed.
 - 13 Año de publicación o estreno (year of publication or premiere): Year when the piece was first published or premiered.
-- 14 Observaciones al año (year observations): Notes or comments related to the year of the performance.
+- 14 Observaciones al año (year observations): Notes or comments related to the year of publication, premiere or composition.
 - 15 Chileno o no chileno (Chilean or non-Chilean): Whether the composer is Chilean or not.
 - 16 Estreno o no estreno (premiere or not): Whether the performance was the premiere of the piece or a repeat performance.
-- 17 Periodo (period): The historical or stylistic period of the composition (e.g., Baroque, Classical, Romantic).
-- 18 Fuente (source): Source of the data or information regarding the performance or composition.
+- 17 Periodo (period): Periods in which the works were composed, divided into half centuries (e.g. 1st half of the nineteenth century, twenty-first century).
+- 18 Fuente (source): Source of the data or information regarding the performance or composition. additional. Information supplemented by news articles.
 - 19 Link (link): URL or web link to additional information or reference materials.
 - 20 Observaciones (observations): General comments or observations about the performance or the piece.
 
@@ -35,7 +35,7 @@ It consists of 3258 entries (one per piece) and 20 variables:
 
 ## Sources
 
-Official programs obtained from orchestras, either through their website or direct inquiries
+Official programs obtained from orchestras, either through their website or direct inquiries. Information supplemented by news articles.
 
 ## Licence
 
