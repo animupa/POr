@@ -23,6 +23,15 @@ It consists of 3258 entries (one per pie) and 20 variables:
 - 19 Link (link): URL or web link to additional information or reference materials.
 - 20 Observaciones (observations): General comments or observations about the performance or the piece.
 
+7 orchestras are: 
+- OCCH: Orquesta de Cámara de Chile
+- OCUSCH: Orquesta de la Universidad de Santiago de Chile
+- OCV: Orquesta de Cámara de Valdivia
+- OFS: Orquesta Filarmónica de Santiago
+- OSNCH: Orquesta Sinfónica Nacional de Chile
+- OSUC: Orquesta Sinfónica de la Universidad de Concepción
+- OSULS: Orquesta Sinfónica de La Serena
+
 ## Sources
 
 Official programs obtained from orchestras, either through their website or direct inquiries
