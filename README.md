@@ -39,4 +39,4 @@ Official programs obtained from orchestras, either through their website or dire
 
 ## Licence
 
-CC0-1.0 license
+This dataset and associated code in the repository are distributed under the CC BY-NC 4.0 license.
